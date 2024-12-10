@@ -13,5 +13,12 @@ I am a sotware engineer passionate about developing innovative solutions that ma
   - Exploring the ins and outs of the dot net framework.
   - Datascience through working with datasets
   - Building machine learning models with the different algorithms
+## 🛠 My Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀

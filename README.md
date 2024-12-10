@@ -1,6 +1,6 @@
 ## Hi there I'm Nagawa Hairatu 👋
 I am a sotware engineer passionate about developing innovative solutions that make the world a better place. I love to explorer the different fields in technology so as to have vast knowledge about everything. As of now, I am looking a software development, datascience and machine learning.
-
+![hairatu1234's Stats](https://github-readme-stats.vercel.app/api?username=hairatu1234&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ## 🚀 About Me
   - I have pursued a Bachelors degree in software engineering at Makerere University Uganda
   - I enjoy exploring the different paths in technology.

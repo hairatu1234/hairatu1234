@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there I'm Nagawa Hairatu 👋
+I am a sotware engineer passionate about developing innovative solutions that make the world a better place. I love to explorer the different fields in technology so as to have vast knowledge about everything. As of now, I am looking a software development, datascience and machine learning.
 
-<!--
-**hairatu1234/hairatu1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+  - I have pursued a Bachelors degree in software engineering at Makerere University Uganda
+  - I enjoy exploring the different paths in technology.
+    
+## 🌱 Currently Exploring
 
-Here are some ideas to get you started:
+  - Exploring the ins and outs of the dot net framework.
+  - Datascience through working with datasets
+  - Building machine learning models with the different algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
